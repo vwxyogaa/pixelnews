@@ -2,7 +2,7 @@
 PixelNews App was built to make it easier to see news portals, articles from various media. This app also provides a covid19 tracker feature.
 
 ### Screenshots ###
-<img src="Screenshots/1.png" width="200"> <img src="Screenshots/2.png" width="200"> <img src="Screenshots/3.png" width="200">
+<img src="Screenshots/1.png" width="200"> <img src="Screenshots/3.png" width="200"> <img src="Screenshots/5.png" width="200"> 
 
 ### Tech ###
 * [Swift](https://developer.apple.com/swift/)
